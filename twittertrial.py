@@ -26,12 +26,6 @@ import re
 
 # from cridential import Cridential
 
-class Cridential():
-    AccessToken = "3117726237-qaOp9Z5ziCGDcrqTeEoOoA958rSAl7fLl08s4wq"
-    AccessTokenSecret ="nkj1aARQfqt6eOm4wlNFfloIYZIUYidY7JD767Q3FzdvR"
-    ConsumerKey = "bT9VebwnrC42hDhLbtESioyXs"
-    ConsumerSecret = "l6nShqaUKvhZest1dFBAJdrVyPOTpvdQ294HPLnnU9ZQdH0Ch1"
-    Debug = True
 
  # the user is nione because we've not specified so likely it will go to my tl, specify the user at the none area
 class TwitterClients():
